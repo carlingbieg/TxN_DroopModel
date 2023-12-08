@@ -9,3 +9,6 @@ To explore the interaction between nutrient availability and temperature on popu
 
 
 Here, nutrient availability (N) is modeled as a chemostat, with nutrient uptake by phytoplankton (B) following a type-II functional response (Monod function), thus allowing for saturation in per-capita uptake. Within the cell, the nutrient quota, Q, determines the flux of nutrients based on differences between temperature-dependent uptake and assimilation rates.
+
+All analyses were done in Wolfram Mathematica v13.1 
+
